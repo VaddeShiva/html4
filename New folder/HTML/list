@@ -1,0 +1,29 @@
+Lists: lists are use to list of certain items
+HTML contains three types of lists
+1.Order list: list of items where order is importent 
+ex: 1.rohit
+    2.raj
+    3.shekar
+
+2.Unordered List: list of items where order is not importent
+    skills:
+    >skil1
+    >skill2
+    >skill3
+
+3.Description List: list of events or items mentioned with reference
+ex:- A company Growth
+1995-2000
+    company established
+2000-2010
+    company went well
+2011-2023
+    companygot success
+2024
+    company bankrupt
+
+
+
+Tables:
+Tables are used to represent the data in a simpler format. 
+tables deals with rowss and columns
